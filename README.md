@@ -1,2 +1,3 @@
 # sample
-cooking
+
+Example
